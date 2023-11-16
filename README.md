@@ -46,6 +46,6 @@ Es empfiehlt sich außerdem einen für den Antrieb maßgeschneiderten Sockel auf
 
 ## Weiterführendes
 
-Den ganzen Artikel über das Projekt steht auf meiner <a href="https://philipsi.de">Portfolio Website</a> zur Verfügung. In diesem finden Sie auch Hardware Liste & Co. Weitere Renderings finden Sie im Unterverzeichnis `3D_models/renderings`.
+Der ganze Artikel über das Projekt steht auf meiner <a href="https://philipsi.de">Portfolio Website</a> zur Verfügung. In diesem finden Sie auch Hardware Liste & Co. Weitere Renderings finden Sie im Unterverzeichnis `3D_models/renderings`.
 
 Es sei wichtig anzumerken, dass dieses Projekt (noch) nicht in Wirklichkeit umgesetzt wurde. Daher sind Berücksichtigungen für die Installation vermutlich nicht vollständig abgedeckt.
